@@ -1,0 +1,12 @@
+{
+  "Records": [
+    {
+      "TableName": "td_notes_archive",
+      "RetentionCount": 3
+    },
+    {
+      "TableName": "td_notes_sdk",
+      "RetentionCount": 2
+    }
+  ]
+}

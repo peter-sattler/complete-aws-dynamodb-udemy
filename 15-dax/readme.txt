@@ -1,0 +1,1 @@
+Dont upload the source code zip file directly to Lambda. You need to zip the contents of the folder containing the handler function and upload that zip file.

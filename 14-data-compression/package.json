@@ -1,0 +1,17 @@
+{
+  "name": "14-data-compression",
+  "version": "1.0.0",
+  "description": "DynamoDB Demos (Section 14)",
+  "main": "data-compression.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pete Sattler",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.778.0",
+    "faker": "^5.1.0",
+    "moment": "^2.29.1",
+    "zlib": "^1.0.5"
+  }
+}

@@ -1,0 +1,150 @@
+{
+    "Records": [
+        {
+            "eventID": "62e301ca880a4eea86be6c4b3af0518b",
+            "eventName": "INSERT",
+            "eventVersion": "1.1",
+            "eventSource": "aws:dynamodb",
+            "awsRegion": "us-east-1",
+            "dynamodb": {
+                "ApproximateCreationDateTime": 1521102240,
+                "Keys": {
+                    "user_id": {
+                        "S": "88888888"
+                    },
+                    "timestamp": {
+                        "N": "1520513143"
+                    }
+                },
+                "NewImage": {
+                    "note_id": {
+                        "S": "5559jkhs"
+                    },
+                    "user_id": {
+                        "S": "88888888"
+                    },
+                    "user_name": {
+                        "S": "Riyaz"
+                    },
+                    "title": {
+                        "S": "my note"
+                    },
+                    "content": {
+                        "S": "this is a test note"
+                    },
+                    "timestamp": {
+                        "N": "1520513143"
+                    }
+                },
+                "SequenceNumber": "30085200000000004815440071",
+                "SizeBytes": 127,
+                "StreamViewType": "NEW_AND_OLD_IMAGES"
+            },
+            "eventSourceARN": "arn:aws:dynamodb:us-east-1:000000000000:table/td_notes/stream/2018-03-15T07:33:31.714"
+        },
+        {
+            "eventID": "d35ee0c87268dadefa6d8114e25fac7b",
+            "eventName": "MODIFY",
+            "eventVersion": "1.1",
+            "eventSource": "aws:dynamodb",
+            "awsRegion": "us-east-1",
+            "dynamodb": {
+                "ApproximateCreationDateTime": 1521102840,
+                "Keys": {
+                    "user_id": {
+                        "S": "88888888"
+                    },
+                    "timestamp": {
+                        "N": "1520513143"
+                    }
+                },
+                "NewImage": {
+                    "note_id": {
+                        "S": "5559jkhs"
+                    },
+                    "user_id": {
+                        "S": "88888888"
+                    },
+                    "user_name": {
+                        "S": "Riyaz"
+                    },
+                    "title": {
+                        "S": "updated note"
+                    },
+                    "content": {
+                        "S": "this is a test note"
+                    },
+                    "timestamp": {
+                        "N": "1520513143"
+                    }
+                },
+                "OldImage": {
+                    "note_id": {
+                        "S": "5559jkhs"
+                    },
+                    "user_id": {
+                        "S": "88888888"
+                    },
+                    "user_name": {
+                        "S": "Riyaz"
+                    },
+                    "title": {
+                        "S": "my note"
+                    },
+                    "content": {
+                        "S": "this is a test note"
+                    },
+                    "timestamp": {
+                        "N": "1520513143"
+                    }
+                },
+                "SequenceNumber": "30085300000000004815564722",
+                "SizeBytes": 229,
+                "StreamViewType": "NEW_AND_OLD_IMAGES"
+            },
+            "eventSourceARN": "arn:aws:dynamodb:us-east-1:000000000000:table/td_notes/stream/2018-03-15T07:33:31.714"
+        },
+        {
+            "eventID": "a910057d08430e43eba57e152ec03e08",
+            "eventName": "REMOVE",
+            "eventVersion": "1.1",
+            "eventSource": "aws:dynamodb",
+            "awsRegion": "us-east-1",
+            "dynamodb": {
+                "ApproximateCreationDateTime": 1521103080,
+                "Keys": {
+                    "user_id": {
+                        "S": "88888888"
+                    },
+                    "timestamp": {
+                        "N": "1520513143"
+                    }
+                },
+                "OldImage": {
+                    "note_id": {
+                        "S": "5559jkhs"
+                    },
+                    "user_id": {
+                        "S": "88888888"
+                    },
+                    "user_name": {
+                        "S": "Riyaz"
+                    },
+                    "title": {
+                        "S": "updated note"
+                    },
+                    "content": {
+                        "S": "this is a test note"
+                    },
+                    "timestamp": {
+                        "N": "1520513143"
+                    }
+                },
+                "SequenceNumber": "30085400000000004815609142",
+                "SizeBytes": 132,
+                "StreamViewType": "NEW_AND_OLD_IMAGES"
+            },
+            "eventSourceARN": "arn:aws:dynamodb:us-east-1:000000000000:table/td_notes/stream/2018-03-15T07:33:31.714"
+        }
+    ]
+}

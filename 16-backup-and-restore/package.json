@@ -1,0 +1,16 @@
+{
+  "name": "16-backup-and-restore",
+  "version": "1.0.0",
+  "description": "DynamoDB Demos (Section 16)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pete Sattler",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.787.0",
+    "moment": "^2.29.1",
+    "underscore": "^1.11.0"
+  }
+}

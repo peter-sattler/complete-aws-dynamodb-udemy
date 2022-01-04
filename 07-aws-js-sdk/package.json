@@ -1,0 +1,16 @@
+{
+  "name": "07-aws-sdk",
+  "version": "1.0.0",
+  "description": "DynamoDB SDK for NodeJS Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Sattler",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "aws-sdk": "^2.747.0",
+    "underscore": "^1.11.0"
+  }
+}
