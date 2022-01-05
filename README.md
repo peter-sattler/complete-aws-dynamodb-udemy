@@ -9,7 +9,7 @@ I took this course from 4 September to 8 November 2020 on my own time while buil
   - NodeJS Basics (but I did the exercises)
 * Sections 17 - 29 including the course project
 
-I am primarily a Java developer, but I have a basic background in JavaScript. I enjoyed this course and would recommend it to others. [Riyaz Sayyad ](https://www.udemy.com/user/riyazsayyad/) is a very knowledgeable instructor and explains things clearly in a easy, concise and confident manner.
+I am primarily a Java developer, but I have a basic background in [JavaScript](https://github.com/peter-sattler/money-transfer-ui/blob/master/README.md). I enjoyed this course and would recommend it to others. [Riyaz Sayyad ](https://www.udemy.com/user/riyazsayyad/) is a very knowledgeable instructor and explains things clearly in a easy, concise and confident manner.
 
 # Course Outline
 
