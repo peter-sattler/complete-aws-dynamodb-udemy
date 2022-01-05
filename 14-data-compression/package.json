@@ -9,7 +9,7 @@
   "author": "Pete Sattler",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.778.0",
+    "aws-sdk": "^2.814.0",
     "faker": "^5.1.0",
     "moment": "^2.29.1",
     "zlib": "^1.0.5"
