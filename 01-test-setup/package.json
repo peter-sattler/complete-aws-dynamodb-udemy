@@ -1,0 +1,11 @@
+{
+  "name": "01-test-setup",
+  "version": "1.0.0",
+  "description": "DynamoDB Demos (Section 1)",
+  "main": "list-tables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pete Sattler",
+  "license": "ISC"
+}
