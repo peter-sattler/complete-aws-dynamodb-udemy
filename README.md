@@ -4,12 +4,12 @@ I took this course from 4 September to 8 November 2020 on my own time while buil
 
 ## Skipped Sections  
 
-* Section 2 (I had already covered these in the [Complete JavaScript](https://github.com/peter-sattler/complete-javascript-udemy/blob/master/README.md) Course): 
+* Section 2 (I had already covered these in the [Complete JavaScript](https://github.com/peter-sattler/complete-javascript-udemy/blob/main/README.md) Course): 
   - JavaScript ES6 Basics  
   - NodeJS Basics (but I did the exercises)
 * Sections 17 - 29 including the course project
 
-I am primarily a Java developer, but I have a basic background in [JavaScript](https://github.com/peter-sattler/money-transfer-ui/blob/master/README.md). I enjoyed this course and would recommend it to others. [Riyaz Sayyad ](https://www.udemy.com/user/riyazsayyad/) is a very knowledgeable instructor and explains things clearly in an easy, concise and confident manner.
+I am primarily a Java developer, but I have a basic background in [JavaScript](https://github.com/peter-sattler/money-transfer-ui/blob/main/README.md). I enjoyed this course and would recommend it to others. [Riyaz Sayyad ](https://www.udemy.com/user/riyazsayyad/) is a very knowledgeable instructor and explains things clearly in an easy, concise and confident manner.
 
 # Course Outline
 
